@@ -5,7 +5,7 @@
 
 This is a basketball scorecard counter. My second practice Project in JavaScript.
 
-[Live Demo]
+[Live Demo: https://js-basketball-scorecard.netlify.app/]
 
 ## 🚀 Features
 
